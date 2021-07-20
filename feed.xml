@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>diariomamae</title>
+    <link href="https://iagomussel.github.io/diariomamae/feed.xml" rel="self" />
+    <link href="https://iagomussel.github.io/diariomamae" />
+    <updated>2021-07-19T22:11:49-03:00</updated>
+    <author>
+        <name>Mônica Ramos</name>
+    </author>
+    <id>https://iagomussel.github.io/diariomamae</id>
+
+    <entry>
+        <title>10 Fatos Sobre Recém-nascidos Que Você Provavelmente Não Sabia!</title>
+        <author>
+            <name>Mônica Ramos</name>
+        </author>
+        <link href="https://iagomussel.github.io/diariomamae/10-fatos-sobre-recem-nascidos-que-voce-provavelmente-nao-sabia.html"/>
+        <id>https://iagomussel.github.io/diariomamae/10-fatos-sobre-recem-nascidos-que-voce-provavelmente-nao-sabia.html</id>
+
+        <updated>2021-07-19T22:11:49-03:00</updated>
+            <summary>
+                <![CDATA[
+                     Os recém-nascidos são realmente uma caixinha de surpresas, e neste artigo separamos 10 curiosidades que a maioria não sabe. 1 Os bebes ouvem tudo durante a gravidez Sim, estudos indicam quem à partir do terceiro mês de gestação o aparelho auditivo dele jé está&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    Os recém-nascidos são realmente uma caixinha de surpresas, e neste artigo separamos 10 curiosidades que a maioria não sabe.
+  </p>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://iagomussel.github.io/diariomamae/media/posts/1/pexels-lisa-2721581.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://iagomussel.github.io/diariomamae/media/posts/1/responsive/pexels-lisa-2721581-xs.jpg 300w ,https://iagomussel.github.io/diariomamae/media/posts/1/responsive/pexels-lisa-2721581-sm.jpg 480w ,https://iagomussel.github.io/diariomamae/media/posts/1/responsive/pexels-lisa-2721581-md.jpg 768w ,https://iagomussel.github.io/diariomamae/media/posts/1/responsive/pexels-lisa-2721581-lg.jpg 1024w ,https://iagomussel.github.io/diariomamae/media/posts/1/responsive/pexels-lisa-2721581-xl.jpg 1360w ,https://iagomussel.github.io/diariomamae/media/posts/1/responsive/pexels-lisa-2721581-2xl.jpg 1600w"  height="4000" width="6000" alt="" />
+      
+    </figure>
+
+  <p>
+    <strong>1 Os bebes ouvem tudo durante a gravidez</strong>
+  </p>
+
+  <p>
+    Sim, estudos indicam quem à partir do terceiro mês de gestação o aparelho auditivo dele jé está apto a receber sons, por este motivo o são capazes de reconhecer a voz da mãe e até mesmo uma musica que ouvia durante a gestação.
+  </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
